@@ -1,10 +1,16 @@
 _repo: Fire-at-Red-Lake-Sandy-Steele-Adventures-4_50257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50257-h/images/cover.jpg
 creator:
   author:
     agent_name: Barlow, Roger
     gutenberg_agent_id: '45761'
     url: http://www.gutenberg.org/2009/agents/45761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50257#Fire-at-Red-Lake-Sandy-Steele-Adventures-4
 gutenberg_issued: '2015-10-19'
 gutenberg_type: Text
 identifiers:
